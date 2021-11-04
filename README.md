@@ -1,6 +1,6 @@
 # gglink
 
-A new Flutter project.
+I have tried to fetch data from Laravel API but I can't find enduser point of this. I got token just with this. I can call API from flutter but unfortunately it didn't showed any data. Furthermore, I have created UI part with flutter and have created drawer menu for different task.
 
 ## Getting Started
 
